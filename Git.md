@@ -1,5 +1,4 @@
 # Title
-
 `git clone <url> <repo-name>` - Clone a repo from a url and give it a specific repo name
 
 `git add remote github <url>` - Add a new remote called github
@@ -29,3 +28,5 @@
 `git rm --cached <file>` - Stop tracking a particular file (you will need to commit and push to persist changes)
 
 `git rm -r --cached <folder>` - Stop tracking a particular folder (you will need to commit and push to persist changes)
+
+`git commit --amend <commit-id>` - Ammend a commit
