@@ -1,7 +1,7 @@
 # Title
 `git clone <url> <repo-name>` - Clone a repo from a url and give it a specific repo name
 
-`git add remote github <url>` - Add a new remote called github
+`git remote add github <url>` - Add a new remote called github
 
 `git status` - Check the status of the current repo (should be run frequently)
 
