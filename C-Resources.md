@@ -11,3 +11,5 @@ https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#
 https://en.wikipedia.org/wiki/ASCII
 
 https://github.com/juliecarra/42-c-pool/blob/master/C00/ex06/ft_print_comb2.c
+
+https://stackoverflow.com/a/50667596
