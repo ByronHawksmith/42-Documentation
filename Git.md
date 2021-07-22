@@ -32,3 +32,5 @@
 `git commit --amend <commit-id>` - Ammend a commit
 
 `git reset --hard <commit-id>` - Move the HEAD back to the desired commit, discard all changes after that commit
+
+`git rev-list --max-parents=0 HEAD` - Get the hash of the first commit.
