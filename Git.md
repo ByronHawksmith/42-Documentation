@@ -34,3 +34,5 @@
 `git reset --hard <commit-id>` - Move the HEAD back to the desired commit, discard all changes after that commit
 
 `git rev-list --max-parents=0 HEAD` - Get the hash of the first commit.
+
+`git branch test origin/<branch-name>` - Pull down a branch from a remote repository.
