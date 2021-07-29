@@ -1,3 +1,10 @@
+# Initialising a new local git repository
+1. `mkdir C-00` make a folder for a particular proect.
+2. `cd C-00` cd into the project.
+3. `git init` initialise the repository.
+4. `git status` to make sure it worked.
+5. `ls -la` to see that the .git folder has been created.
+
 # Add SSH Key to Github
 1. Sign up for a github account
 2. Click on your profile in the top right
