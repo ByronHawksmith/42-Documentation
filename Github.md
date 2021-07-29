@@ -9,7 +9,7 @@
 8. Copy the SSH public key into the GitHub website
 9. Click Add SSH key
 
-# Create a new repository
+# Create a new repository on Github
 1. Click on profile in top right
 2. Click on repositories
 3. Click on new repository
